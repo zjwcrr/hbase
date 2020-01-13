@@ -16,5 +16,7 @@ public class DemoMain {
 
         // 3、查询hbase
         HbaseService.getInstance().getTerminalLogFromHbase();
+
+        // 结束操作
     }
 }
